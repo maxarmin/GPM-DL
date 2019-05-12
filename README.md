@@ -21,6 +21,7 @@ The following field values need to be inputted into the config file:
 - checkForUpdates - you will still be able to use GPM-DL without having the latest version.
 
 - All tags under "[Tags]" and "[Playlist]" except comment.
+
 **You can't download ANY tracks with a free account.**
 ## Optional ##
 - comment - write custom comment to comment field. Special chars will be escaped.
