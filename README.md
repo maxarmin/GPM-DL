@@ -1,11 +1,12 @@
 # GPM-DL
-Tool written in Python to download tracks from Google Play Music for Windows.
+**Experimental** Tool written in Python to download tracks from Google Play Music for Windows.
 Sister of [Qo-DL](https://github.com/Sorrow446/Qo-DL) and [Ti-DL](https://github.com/Sorrow446/Ti-DL).
 
-Latest versions:    
+Latest versions:
 
 Windows:   
-GPM-DL: 12th May 19 - Release 1   
+GPM-DL: 12th May 19 - Release 1 - [DOWNLOAD - x64](https://thoas.feralhosting.com/sorrow/GPM-DL/Latest%20Build/GPM-DL_x64.exe)   
+No x86 build at the moment as a needed lib is having issues working with it.   
 
 ![](https://thoas.feralhosting.com/sorrow/GPM-DL/b1.jpg)
 
