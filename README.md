@@ -14,7 +14,7 @@ No x86 build at the moment as a needed lib is having issues working with it.
 ## Mandatory ##
 The following field values need to be inputted into the config file:
 - email
-- password - **must be app password.** See: https = //myaccount.google.com/apppasswords
+- password - **must be app password. Must have 2-step auth.** See: https = //myaccount.google.com/apppasswords
 - quality - 1 = MP3 128, 2 = MP3 160, 3 = MP3 320
 - namingSscheme - 1 = "01. ", 2 = "01 -"
 - soundNotifVol - volume of sound notification. 0-1. I don't advise going over 0.5.
